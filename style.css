@@ -670,7 +670,7 @@ li{
     right: 2px;
     left: 1px;
     margin-right: 10px;
-    background: url('./images/1.jpeg') center/cover no-repeat;
+    background: url('./images/6.jpeg') center/cover no-repeat;
 }
 .img-client2{
     height: 55px;
@@ -718,7 +718,7 @@ li{
     right: 2px;
     left: 1px;
     margin-right: 10px;
-    background: url('./images/1.jpeg') center/cover no-repeat;
+    background: url('./images/4.jpeg') center/cover no-repeat;
 }
 .img-client6{
     height: 55px;
@@ -730,7 +730,7 @@ li{
     right: 2px;
     left: 1px;
     margin-right: 10px;
-    background: url('./images/1.jpeg') center/cover no-repeat;
+    background: url('./images/5.jpeg') center/cover no-repeat;
 }
 
 .bookaSession{
@@ -864,4 +864,14 @@ li{
 }
 .container{
     padding: 0px !important;
+}
+.star{
+    background-image: url(./images/secondbanner.png) !important;
+}
+.icon-star{
+    height: 17px;
+    width: 17px;
+    margin-right: 0px;
+    margin-top: 8px;
+    margin-bottom: 15px;
 }
